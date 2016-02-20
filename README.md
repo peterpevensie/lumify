@@ -29,7 +29,7 @@ Checkout the Lumify Source Code using the following Git command.
 	$ cd <working dir>
 	$ git clone https://github.com/lumifyio/lumify.git
 
-###3. Build and run the Lumfy Demo
+###3. Build and run the Lumify Demo
 
 The following commands will start the Lumify Demo Virtual Machine.  If the virtual machine has not been built it will be built and then started.
 
@@ -103,7 +103,7 @@ Please see the Vagrant help for other commands that may be useful.
     npm install -g grunt-cli
     
 ###5. Run the web server from the IDE
-   * [Run locally in an IDEA Inellij IDE](docs/ide.md)
+   * [Run locally in Intellij IDEA](docs/ide.md)
 
 See [docs/developer.md](docs/developer.md) for more information on developing for Lumify.
 
